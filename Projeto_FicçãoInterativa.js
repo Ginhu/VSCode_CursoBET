@@ -206,9 +206,8 @@ let heroi = {
 
 let horas = 0;
 let horasdoDia = 6;
-let dias = 28;
+let dias = 1;
 let mult = 0;
-let highScore = [];
 
 console.log(`Bem vindo ${nome} você é um magrelo desempregado e ansioso!`);
 console.log(`Seu objetivo é realizar atividades durante o dia para melhorar seus status`);
